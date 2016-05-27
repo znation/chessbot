@@ -1,0 +1,4 @@
+package: github.com/znation/chessbot
+import:
+- package: github.com/nlopes/slack
+  version: e337a7316d3fe9aa55b7063035d6d32f3dbcaeb9
