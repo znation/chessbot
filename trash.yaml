@@ -2,3 +2,6 @@ package: github.com/znation/chessbot
 import:
 - package: github.com/nlopes/slack
   version: e337a7316d3fe9aa55b7063035d6d32f3dbcaeb9
+
+- package: github.com/mxk/go-sqlite/sqlite3
+  version: 167da9432e1f4602e95ea67b67051cfa34412e3f
